@@ -1,0 +1,6 @@
+0,Manolo,Cazuela Hernandez,12345678A,Macarra,supersecretpassword,221
+1,Testing,Tasty Things,12345678A,Testy,asdf,0
+2,User1,user,1,mlem,mlem,0
+3,user2,user,2,something,something,0
+4,Ataulfo,Cayero,12345678A,Iker_cayero,12345,0
+5,Manolo,Manolin,12asd,Asm,abc,0
